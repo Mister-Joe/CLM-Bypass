@@ -1,2 +1,2 @@
 # CLM-Bypass
-Bypass PowerShell CLM through runspaces.
+Bypass PowerShell constrainted language mode (CLM) through runspaces.
